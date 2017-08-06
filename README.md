@@ -44,7 +44,7 @@ label prob text
 **DNN 模型结构入下图所示：**
 
 <p align="center">
-<img src="images/dnn_net.png" width = "90%" align="center"/><br/>
+<img src="image/dnn_net.png" width = "90%" align="center"/><br/>
 图1. 本例中的 DNN 文本分类模型
 </p>
 
